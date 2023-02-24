@@ -20,7 +20,7 @@
     "riot-tag-loader": "^1.0.0"
   },
   "devDependencies": {
-    "webpack": "^3.6.0"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "build": "webpack",
