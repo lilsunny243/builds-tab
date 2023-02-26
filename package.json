@@ -13,7 +13,7 @@
     "github-injection": "^1.0.1",
     "loader-utils": "^1.4.2",
     "memory-fs": "^0.4.1",
-    "moment": "^2.19.0",
+    "moment": "^2.29.4",
     "normalize-package-data": "^2.4.0",
     "riot": "^3.7.3",
     "riot-cli": "^3.0.3",
